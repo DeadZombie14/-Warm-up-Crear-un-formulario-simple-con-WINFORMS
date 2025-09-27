@@ -1,0 +1,16 @@
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\bin\Debug\net8.0-windows\HolaMundoWinForms.exe
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\bin\Debug\net8.0-windows\HolaMundoWinForms.deps.json
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\bin\Debug\net8.0-windows\HolaMundoWinForms.runtimeconfig.json
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\bin\Debug\net8.0-windows\HolaMundoWinForms.dll
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\bin\Debug\net8.0-windows\HolaMundoWinForms.pdb
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\HolaMundoWinForms.Form1.resources
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\HolaMundoWinForms.csproj.GenerateResource.cache
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\HolaMundoWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\HolaMundoWinForms.AssemblyInfoInputs.cache
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\HolaMundoWinForms.AssemblyInfo.cs
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\HolaMundoWinForms.csproj.CoreCompileInputs.cache
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\HolaMundoWinForms.dll
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\refint\HolaMundoWinForms.dll
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\HolaMundoWinForms.pdb
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\HolaMundoWinForms.genruntimeconfig.cache
+C:\Users\DeadZombie14\source\repos\HolaMundoWinForms\obj\Debug\net8.0-windows\ref\HolaMundoWinForms.dll
